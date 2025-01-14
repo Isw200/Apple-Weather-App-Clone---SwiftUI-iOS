@@ -24,24 +24,22 @@ WeatherAppPro is a modern weather application designed to provide users with det
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/915658c8-2ed3-4cc9-8d45-d5466f78e751" alt="Screenshot 4" width="200"/>
-  <img src="https://github.com/user-attachments/assets/8ded67d7-d532-45fb-9da1-af23a9163815" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/e1331e46-c2ba-499b-a66e-a52cdf72fbb8" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/ed128056-fc85-4185-b56f-a44abe76dcf3" alt="Image 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/39c662f7-6922-42d2-ac03-3168e7942f95" alt="Image 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f16ec313-aca3-4b8d-ad10-217a06b58c50" alt="Image 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/952dc40f-32bd-4c4e-93c9-d791d0657f32" alt="Image 4" width="200"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c4bf52f3-6604-4aec-a9c2-e209e9121084" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/694648b3-7216-4415-9e92-3e8a3109dcb6" alt="Screenshot 6" width="200"/>
-  <img src="https://github.com/user-attachments/assets/5aeec7ce-7ef2-4db2-9e7c-038c77ad00cd" alt="Screenshot 5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b5a60dfe-5219-41a2-9304-c1bb9919114e" alt="Image 5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3bf84bab-8850-4e95-8f3f-cde4fe4ca792" alt="Image 6" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e421d264-c5bd-4a2b-bd82-5ebdc9666df2" alt="Image 7" width="200"/>
+  <img src="https://github.com/user-attachments/assets/57a6e525-b174-4167-9193-4afa347a53be" alt="Image 8" width="200"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1701018-875b-4614-b0fa-0fd60f9b59fb" alt="Screenshot 9" width="200"/>
-  <img src="https://github.com/user-attachments/assets/d941efa7-4d3a-4123-bde8-56191942f7fc" alt="Screenshot 10" width="200"/>
-  <img src="https://github.com/user-attachments/assets/524e5268-77fa-4769-b076-4caabdc394e2" alt="Screenshot 12" width="200"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6711193c-40f5-4283-9cea-43d005d88e4d" alt="Screenshot 11" width="200"/>
-  <img src="https://github.com/user-attachments/assets/231fe28a-eb4e-4ff6-9221-61b46cc6426e" alt="Screenshot 7" width="200"/>
-  <img src="https://github.com/user-attachments/assets/91bc857e-f377-4f4b-b0bb-6aac120af558" alt="Screenshot 8" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3c1d13cd-d810-4a11-ad3d-9f3b4c10704b" alt="Image 9" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fb26242b-758d-4cdf-956b-da69c29cf1c0" alt="Image 10" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e7b53464-facd-4ba7-b11f-1f6b15d2a54a" alt="Image 11" width="200"/>
+  <img src="https://github.com/user-attachments/assets/64142b1d-e56e-4be1-a9f2-ef1bfc848414" alt="Image 12" width="200"/>
 </p>
 
 ---
