@@ -121,7 +121,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Isw200/Apple-Weather-App-Clone/blob/main/LICENSE).
 
 ---
 
