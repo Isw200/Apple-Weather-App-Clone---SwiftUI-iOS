@@ -135,4 +135,4 @@ This project is licensed under the [MIT License](https://github.com/Isw200/Apple
 
 ## Contact
 
-For questions or feedback, please contact [[isuruariyarathna.me](https://www.isuruariyarathna.me/)].
+For questions or feedback, please contact [isuruariyarathna.me](https://www.isuruariyarathna.me/).
