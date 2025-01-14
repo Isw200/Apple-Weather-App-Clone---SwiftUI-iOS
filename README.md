@@ -59,7 +59,8 @@ WeatherAppPro is a modern weather application designed to provide users with det
 ### Tools
 - **Xcode**: For development and testing.
 - **GitHub**: Version control and collaboration.
-
+- **API**: OpenWeatherMap's One Call API 3.0.
+- **Firebase**
 ---
 
 ## Installation
@@ -75,9 +76,10 @@ WeatherAppPro is a modern weather application designed to provide users with det
    ```
 2. Open `WeatherAppPro.xcodeproj` in Xcode.
 3. Replace the OpenWeatherMap API key in `Shared > Constants > ApiEndPoints` under `apiKey`.
-4. Download and insert the `GoogleService-Info.plist` file into the `Firebase` folder in WeatherAppPro.
-5. Add the app icon to your Xcode project by dragging it into the asset catalog.
-6. Run the project on an iOS simulator or connected device.
+   *Ensure you have subscribed to OpenWeatherMap's **One Call API 3.0** to access the necessary weather data.*
+5. Download and insert the `GoogleService-Info.plist` file into the `Firebase` folder in WeatherAppPro.
+6. Add the app icon to your Xcode project by dragging it into the asset catalog.
+7. Run the project on an iOS simulator or connected device.
 
 ---
 
