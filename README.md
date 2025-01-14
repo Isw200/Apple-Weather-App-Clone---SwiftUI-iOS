@@ -1,6 +1,6 @@
 # Weather App Pro
 
-<img src="https://github.com/user-attachments/assets/be412a8f-09c8-4d29-8e9c-222da0d44005" alt="app-icon" width="150" height="150" style="border-radius: 50%; border: 2px solid #000;">
+<img src="https://github.com/user-attachments/assets/3379de6a-f912-47f4-b3d8-1b72bae53d4c" alt="app-icon" width="150" height="150" style="border-radius: 50%; border: 2px solid #000;">
 
 
 WeatherAppPro is a modern weather application designed to provide users with detailed and accurate weather information. The app includes dynamic visualizations, a user-friendly interface, and features such as saving favorite cities, interactive maps, and air quality monitoring.
