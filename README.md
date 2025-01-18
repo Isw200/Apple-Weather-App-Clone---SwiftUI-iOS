@@ -70,7 +70,7 @@ WeatherAppPro is a modern weather application designed to provide users with det
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/WeatherAppPro.git
+   git clone https://github.com/Isw200/Apple-Weather-App-Clone---SwiftUI-iOS.git
    ```
 2. Open `WeatherAppPro.xcodeproj` in Xcode.
 3. Replace the OpenWeatherMap API key in `Shared > Constants > ApiEndPoints` under `apiKey`.
